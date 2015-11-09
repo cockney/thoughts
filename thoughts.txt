@@ -7,7 +7,7 @@ Automate everything - build, test, deployment, infrastructure, monitoring
 Build to operate from day 1: favour operational and automation stories over functional stories at the beginning of a project
 Software only has value once real users are using it - ship early, ship often, track your KPIs
 When buying software to integrate choose products with a versioned, ReST API
-Avoid direct coupling between components in a system (SaaS , abstractions provide flexibility
+Avoid direct coupling between components in a system, abstractions provide flexibility
 Good enough is good enough, with a few exceptions don't gold plate, video playback should be solid gold, everything else is debatable
 Keep permanent teams small and flex up with contractors when needed, avoid having permanent teams do low value work
 Keep the number of technologies small, this reduces complexity and allows engineers to move between teams more easily
