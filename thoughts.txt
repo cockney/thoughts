@@ -18,6 +18,7 @@ Work should be assigned to teams, never teams to work.  If there's new class of 
 Create complexity by composition of simple services not through monolithic applications
 Avoid direct coupling between components in a system, abstractions provide flexibility
 Keep the number of technologies small, this reduces complexity and allows engineers to move between teams more easily
+Challenge the status quo, avoid Maslow's Hammer situations, keep moving the technology forward
 
 # Development
 
@@ -32,7 +33,6 @@ Teams should always prioritise on preventing defects, and where defects are foun
 Don't commit to dates unless they can be backed up with data.  Don't succumb to stakeholder pressure and make up dates.  If pressed give a range.
 Cost, scope, time.  You can only ever fix two of these the third will need to flex.  Quality is non-negotiable.
 Good enough is good enough, with a few exceptions don't gold plate, video playback should be solid gold, everything else is debatable
-Challenge the status quo, avoid Maslow's Hammer situations, keep moving the technology forward
 Defer decisions to the last possible moment. Decisions made ahead of time may be outdated by the time they are actually needed.
 
 
