@@ -1,4 +1,4 @@
-# Build, don't buy
+# Buy not build
 
 There is no value in building software that we can buy, favour COTs products over self builds (but avoid vendor lock in)
 When buying software prefer SaaS over self hosting
