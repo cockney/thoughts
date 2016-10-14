@@ -19,7 +19,7 @@ Work should be assigned to teams, never teams to work.  If there's new class of 
 Create complexity by composition of simple services not through monolithic applications.
 Avoid direct coupling between components in a system, abstractions provide flexibility.
 Keep the number of technologies small, this reduces complexity and allows engineers to move between teams more easily.
-Challenge the status quo, avoid Maslow's Hammer situations, keep moving the technology forward.
+Challenge the status quo, avoid [Maslow's Hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument "Maslow's Hammer") situations, keep moving the technology forward.
 Always use the canonical source of data via an API.  Caching data is fine but never lift and shift it out of its source system.
 
 # Development
